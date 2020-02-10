@@ -1,6 +1,3 @@
-As painful as it might be, convert all datetimes to timezone-aware datetime. Python has
-libraries to do this.
-
 #function of converting date times to timezone-aware date time
  
 #Used pytz mitlicensed 
